@@ -1,3 +1,1 @@
-# title(){return this.options.title||this.options.name}
-
-Basic Website Page built on React.
+Basic Web Page built on React.
